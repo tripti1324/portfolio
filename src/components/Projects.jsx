@@ -22,22 +22,22 @@ const Projects = () => {
           title: 'Spotify Clone',
           desc: 'A sleek and responsive Spotify clone built with HTML, CSS, and JavaScript, allowing users to browse, play music.',
           image: projss1,
-          live: "#",
-          github: "#"
+          live: "spotify-clone-git-main-tripti1324s-projects.vercel.app",
+          github: "https://github.com/tripti1324/Spotify-Clone"
         },
         {
           title: 'Portfolio',
           desc: 'A modern and dynamic portfolio built with React and Tailwind CSS, showcasing projects and skills in an elegant and responsive format.',
           image: projPF,
-          live: "#",
-          github: "https://github.com/tripti1324"
+          live: "http://portfolio-git-main-tripti1324s-projects.vercel.app",
+          github: "https://github.com/tripti1324/portfolio.git"
         },
         {
           title: 'Snow Boarder Game',
           desc: 'Experience thrilling downhill action in this Unity C# snowboarding game, where you navigate challenging terrains and perform epic tricks while climbing to new heights!',
           image: SnowBord,
           live: "#",
-          github: "#"
+          github: "https://github.com/tripti1324/Snow-Border-Game.git"
         },
       
       ];
